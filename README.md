@@ -35,17 +35,6 @@ I'm **Chean Punlork**, a Software Engineer, Educator, and Creative Producer base
 
 ---
 
-## 📊 ស្ថិតិនៅលើ GitHub / GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheanpunlork&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheanpunlork&layout=compact&theme=radial&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
-*(ចំណាំ៖ សូមប្តូរ `YOUR_GITHUB_USERNAME` ទៅជាឈ្មោះគណនី GitHub ពិតប្រាកដរបស់អ្នក / Note: Please replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
-
----
-
 ## ✉️ ទំនាក់ទំនង / Get In Touch
 
 * 🌐 **Website:** [cheanpunlork.com](https://cheanpunlork.com)
